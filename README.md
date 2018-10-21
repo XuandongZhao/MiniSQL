@@ -5,7 +5,7 @@ This project implemented a mini version of MySQL.
 ## Function
 
 - creation/deletion of the table
-- the creation/deletion of the index
+- creation/deletion of the index
 - insertion/deletion/find of the table record
 
 ## Overview
