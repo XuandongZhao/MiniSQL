@@ -1,0 +1,26 @@
+﻿  recordManage.cpp
+c:\users\alan\desktop\databases\msql\msql\buffmanage.h(20): warning C4099: 'File': type name first seen using 'class' now seen using 'struct'
+  c:\users\alan\desktop\databases\msql\msql\basicdata.h(205): note: see declaration of 'File'
+recordManage.cpp(90): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(117): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(140): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(174): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(179): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(194): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(212): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(229): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(273): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(232): warning C4101: 'buf': unreferenced local variable
+recordManage.cpp(291): warning C4101: 'f': unreferenced local variable
+recordManage.cpp(354): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(449): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(496): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(574): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(780): warning C4018: '<': signed/unsigned mismatch
+recordManage.cpp(847): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 1815 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  msql.vcxproj -> C:\Users\Alan\Desktop\databases\msql\Release\msql.exe
